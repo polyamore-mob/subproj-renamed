@@ -1,3 +1,0 @@
-[submodule "vendor/subproj"]
-        path = vendor/subproj
-	url = https://github.com/polyamore-mob/subproj-renamed.git
