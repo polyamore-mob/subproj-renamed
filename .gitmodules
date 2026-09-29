@@ -1,0 +1,3 @@
+[submodule "libs/subproj"]
+	path = libs/subproj
+	url = https://github.com/polyamore-mob/subproj.git
